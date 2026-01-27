@@ -6,7 +6,7 @@ Some are just experiments for testing, while others might be useful.
 ## Features
 - Simple tools for everyday use (not really lol)
 - Small experiments to try out ideas
-- Open source and free to use, no license so do whatever you want
+- Open source and free to use, MIT license so do whatever you want
 
 ## Purpose
 This repo serves as a sandbox for learning, testing, and sharing little utilities.  
