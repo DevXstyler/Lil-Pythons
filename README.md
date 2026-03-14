@@ -1,5 +1,9 @@
 # -> Little Projects <-
 
+The license is the MIT license, it doesn't matter if a license is included in the specific folders or not.
+It also does not matter what license it is, it will always be the MIT license for code in this repository
+
+## About:
 A collection of small projects made for simple tasks.  
 Some are just experiments for testing, while others might be useful.  
 
